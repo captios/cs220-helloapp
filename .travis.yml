@@ -2,4 +2,4 @@ language: python
 hello:test:
     stage: test
     script:
-      - pytest
+      - python pytest
